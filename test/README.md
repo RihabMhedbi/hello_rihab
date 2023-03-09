@@ -1,1 +1,1 @@
-# {{cookiecutter.repository}} tests
+# hello_rihab tests
